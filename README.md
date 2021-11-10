@@ -1,5 +1,5 @@
 # flutter_movie
-<img src="(https://user-images.githubusercontent.com/32923555/141093754-5521a7a7-0215-4f21-bd14-4bed822d1322.png" width="500" height="700"/>
+<img src="https://user-images.githubusercontent.com/32923555/141093754-5521a7a7-0215-4f21-bd14-4bed822d1322.png" width="500" height="700"/>
 A new Flutter project.
 
 ## Getting Started
